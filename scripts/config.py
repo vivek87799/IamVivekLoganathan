@@ -109,7 +109,7 @@ class Parameter:
         Field.PLACE: "Magdeburg, Germany",
         Field.DESCRIPTION: """
                            - Design and build a real-time machine learning life cycle landscape for NLP task.
-                           - Architectured and implemented data preprocessing pipeline (stream processing) for big data,                  module to train, validate and deploy the model for inference, also built a asynchronous web server with load balancer for inference.
+                           - Architectured and implemented data preprocessing pipeline (stream processing) for big data, module to train, validate and deploy the model for inference, also built a asynchronous web server with load balancer for inference.
                            - Modules were contanarized for easy scaling and future enhancements. 
                            """,
         Field.TECH_STACK: "Python 3.8, Kafka, Faust, MLFlow, PyTorch, Elasticsearch, FastAPI"
@@ -117,11 +117,11 @@ class Parameter:
     {
         Field.START: "2018 Dec",
         Field.END: "2021 Jan",
-        Field.COMPANY_NAME: "metraTec GmbH",
+        Field.COMPANY_NAME: "MetraTec GmbH",
         Field.ROLE: "Computer Vision/ Machine Learning Engineer",
         Field.PLACE: "Magdeburg, Germany",
         Field.DESCRIPTION: """
-                           - Worked on Virtual Reality and Visualization project.
+                           - Worked on Virtual Reality interaction and Visualization project.
                            - The task was to build a real-time motion capture system using the SOTA Deep Learning solutions.
                            - Migrated existing classical Computer Vision detection module to use Deep Learning which increased the performance.
                            - Successfully prototyped and deployed a Deep Learning model on an edge device using OpenVINO framework, we were able to achieve real time performance without the need of a GPU.
